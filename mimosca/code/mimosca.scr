@@ -1,0 +1,8 @@
+#!\bin\bash
+#SBATCH --mem=150G 
+#SBATCH --time=6:0:0
+#SBATCH --
+
+module load python
+
+

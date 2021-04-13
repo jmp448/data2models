@@ -1,0 +1,10 @@
+\begin{thebibliography}{}
+
+\bibitem[Dixit et~al., 2016]{perturbseq}
+Dixit, A., Parnas, O., Li, B., Chen, J., Fulco, C.~P., Jerby-Arnon, L.,
+  Marjanovic, N.~D., Dionne, D., Burks, T., Raychowdhury, R., et~al. (2016).
+\newblock Perturb-seq: dissecting molecular circuits with scalable single-cell
+  rna profiling of pooled genetic screens.
+\newblock {\em Cell}, 167(7):1853--1866.
+
+\end{thebibliography}
